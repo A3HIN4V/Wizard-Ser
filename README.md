@@ -1,4 +1,4 @@
-# Wizard-Ser
+# ABHI-SER
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/1PWx69w.jpeg" width="200" height="200"/>
@@ -26,7 +26,7 @@
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/5shzvYdTasw"><img src="https://i.imgur.com/XkDscpl.jpeg" />
+  <a href="https://youtube.com/channel/UCRItI1lJf3dX15egZXweb1w"><img src="https://i.imgur.com/XkDscpl.jpeg" />
 </p>
 
 -------
@@ -34,7 +34,7 @@
 
 ## `SCAN QR`
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@abhi-ser/Wizard-Ser-Qr-test)
 
 ## `DEPLOY`
 
@@ -58,7 +58,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 `TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START`
 
 <p align="center">
-  <a href="https://github.com/Ajmal-Achu/Wizrad-Ser"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
+  <a href="https://github.com/A3HIN4V/Wizard-Ser"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
 </p>
 
 ## 📢 Guide
