@@ -21,7 +21,7 @@
 ## ```HOW TO DEPLOY```
 `WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
 
-[`Click Here For Tutorial`](https://youtu.be/5shzvYdTasw)
+[`Click Here For Tutorial`](https://youtube.com/channel/UCRItI1lJf3dX15egZXweb1w)
 
 ----------
 
